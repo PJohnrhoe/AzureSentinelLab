@@ -1,4 +1,4 @@
-<h1>Setting up Microsoft Sentinel (SIEM) as home lab</h1>
+<h1>Setting up Microsoft Sentinel (SIEM) as a home lab</h1>
 
 
 <h2>Description</h2>
